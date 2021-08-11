@@ -1,0 +1,10 @@
+.VideoCardsPageDiv {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start;
+}
+.VideoCardListPage {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-around;
+}

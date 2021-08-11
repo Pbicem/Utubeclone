@@ -1,0 +1,32 @@
+.SingleVideoCard {
+  border: 1px solid lightgray;
+  flex: 0 0 330px;
+  margin: 10px;
+}
+.SingleVideoThumbnail {
+  width: 90%;
+}
+.linkofvideoscard {
+  width: auto;
+  text-decoration: none;
+}
+.videotitle {
+  text-decoration: none;
+  width: 90%;
+  text-align: left;
+  margin-left: 5%;
+  color: black;
+  line-height: 1.6em;
+  height: 3.2em;
+  overflow: hidden;
+}
+.channeltitle {
+  text-decoration: none;
+  width: 90%;
+  text-align: left;
+  margin-left: 5%;
+  color: black;
+}
+.views {
+  margin-left: 5%;
+}

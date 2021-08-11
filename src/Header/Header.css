@@ -1,0 +1,36 @@
+.heading {
+  display: flex;
+  align-items: baseline;
+  padding: 15px;
+  border-bottom: 1px solid lightgray;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  background-color: white;
+}
+.heading-left {
+  display: flex;
+  align-items: baseline;
+  flex: 0 0 15%;
+}
+.heading-middle {
+  display: flex;
+  flex: 0 0 700px;
+  margin-left: 1%;
+  margin-right: 1%;
+}
+.inputbox {
+  flex: 1 0 0;
+}
+.form {
+  display: flex;
+  flex: 1 0 0;
+  height: 35px;
+}
+.utubeTitle {
+  font-size: 25px;
+  margin-left: 7%;
+}
+.searchbuttonouter {
+  width: 40px;
+}
